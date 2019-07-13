@@ -16,7 +16,7 @@
     "url": "https://github.com/elementdependent/3JS-HELLO/issues"
   },
   "homepage": "https://github.com/elementdependent/3JS-HELLO#readme"
-  },
+  ,
   "engines": {
     "node": "10.x"
   }
