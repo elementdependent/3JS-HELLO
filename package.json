@@ -1,0 +1,23 @@
+{
+  "name": "3js-hello",
+  "version": "1.0.0",
+  "description": "First App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementdependent/3JS-HELLO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elementdependent/3JS-HELLO/issues"
+  },
+  "homepage": "https://github.com/elementdependent/3JS-HELLO#readme"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
